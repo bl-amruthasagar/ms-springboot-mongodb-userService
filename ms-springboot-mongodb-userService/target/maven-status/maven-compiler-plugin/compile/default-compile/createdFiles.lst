@@ -1,0 +1,6 @@
+com\ams\userapis\MsSpringbootMongodbUserServiceApplication.class
+com\ams\userapis\model\UserDatabaseSequence.class
+com\ams\userapis\dao\UserRepo.class
+com\ams\userapis\service\SequenceGeneratorUserService.class
+com\ams\userapis\model\UserModel.class
+com\ams\userapis\controller\UserController.class
